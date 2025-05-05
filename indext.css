@@ -1,0 +1,58 @@
+.admin{
+    width: 15px;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+label{
+    height: auto;
+    align-items: start;
+    justify-content: space-evenly;
+    flex-direction: 1px;
+}
+input{
+   height: auto;
+   align-items: self-start;
+   justify-content: space-around;
+   padding: 0;
+
+
+}
+
+.email{
+    width: 12px;
+    height: auto;
+    align-items: start;
+    justify-content: end;
+}
+label{
+    height: auto;
+    align-items: flex-start;
+    justify-self: end;
+    flex-direction: 1;
+
+}
+
+.Password{
+    width: 11px;
+    height: auto;
+    align-items: start;
+    justify-content: end;
+    flex-direction: 1;
+}
+
+label{
+    height: auto;
+    align-items: self-start;
+    justify-content: space-evenly;
+    padding: 0;
+}
+input{
+    height: auto;
+    align-items: start;
+    justify-content: space-around;
+    padding: 0;
+    flex-direction: 1px;
+}
+

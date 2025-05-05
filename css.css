@@ -1,0 +1,31 @@
+.label1_users{
+    width: 12px;
+    height: auto;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: 1px;
+
+}
+.input1_users{
+    width: 13px;
+    height: auto; 
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+.label2_password{
+    width: 16px;
+    height: auto;
+    align-items: start;
+    justify-content: space-between;
+    flex-direction: 1px;
+    padding: 0;
+
+}
+.input1_password{
+    width: 14px;
+    height: auto; 
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}

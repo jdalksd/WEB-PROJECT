@@ -1,0 +1,87 @@
+.button1{
+    width: 15px;
+    height: auto;
+    align-items: center;
+    
+}
+.button2{
+    width: 16px;
+    height: auto;
+    align-items: end;
+    justify-content: space-evenly;
+ 
+}
+.button3{
+    width: 17px;
+    height: auto;
+    align-items: normal;
+    justify-content: space-evenly;
+
+}
+label{
+    width:16px ;
+    height: auto;
+    align-items: start;
+    justify-content: space-around;
+
+}
+select{
+ flex-direction: 1;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+
+input{
+ flex-direction: 1;
+    height: auto;
+align-items: start;
+justify-content: space-between;
+
+
+}
+.class_book.img{
+    width: 14px;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+ .BOOK_1{
+    width: 12px;
+    height: auto;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: 1;
+ }
+
+.BOOK_2{
+    width: 15px;
+    height: auto;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: 1;
+    padding: 0;
+ }
+ .BOOK_3_3{
+    width: 16px;
+    height: auto;
+    align-items: center;
+    justify-content: space-around;
+   padding: 0;
+ }
+ .class_book.img2{
+
+    height: auto;
+    align-items: center;
+    border-radius: 1px;
+    flex-direction: 1;
+    box-sizing: border-box;
+    padding: 0;
+ }
+ 
+
+  
+
+  
